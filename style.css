@@ -17,7 +17,7 @@
   .light {
     --text-color: rgb(245, 245, 245);
     --bg-url: url(./imagem/bg-desktop.jpg);
-    --stroke-color: rgba(35, 34, 34, 0.5);
+    --stroke-color: rgba(243, 241, 241, 0.5);
     --surface-color: rgba(2, 2, 2, 0.02);
     --surface-color-hover: rgba(3, 3, 3, 0.2);
     --highlight-color: rgba(0, 0, 0, 0.1);
